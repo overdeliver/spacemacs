@@ -482,7 +482,8 @@
         :evil-leader "t C-w")
 
       (defun spacemacs//set-whitespace-style-for-diff ()
-        "Whitespace configuration for `diff-mode'"
+        "Whit
+espace configuration for `diff-mode'"
         (setq-local whitespace-style '(face
                                        tabs
                                        tab-mark

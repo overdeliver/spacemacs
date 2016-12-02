@@ -1,3 +1,4 @@
+
 ;;; config.el --- Spacemacs Layouts Layer configuration File for Spacemacs
 ;;
 ;; Copyright (c) 2012-2016 Sylvain Benner & Contributors
